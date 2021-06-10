@@ -25,16 +25,16 @@ public class product {
 		
 		if(obj1.price < obj2.price && obj1.price < obj3.price)
 		{
-			System.out.println("Product Code : "+ obj1.pcode+ "\n" + "Product Name : "+  obj1.pname+ "\n"  + "Product Price: " + obj1.price );
+			System.out.println("Product Code : "+ obj1.pcode+ "\n" + "Product Name : "+  obj1.pname+ "\n"  + "Product   Price: " + obj1.price );
 		}
 		else if (obj2.price < obj1.price && obj2.price < obj3.price)
 		{
-			System.out.println("Product Code "+ obj2.pcode+ "\n" + "Product Name : "+ obj2.pname+ "\n"  + "Product Price: " + obj2.price );
+			System.out.println("Product Code "+ obj2.pcode+ "\n" + "Product Name : "+ obj2.pname+ "\n"  + "Product   Price: " + obj2.price );
 
 		}
 		else
 		{
-			System.out.println("Product Code  is : "+ obj3.pcode+ "\n" + "Product Name "+ obj3.pname+ "\n"  + "Product Price : " + obj3.price );
+			System.out.println("Product Code  is : "+ obj3.pcode+ "\n" + "Product Name "+ obj3.pname+ "\n"  + "Product    Price : " + obj3.price );
 
 		}	
 	}

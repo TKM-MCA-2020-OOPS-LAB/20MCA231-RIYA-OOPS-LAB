@@ -14,7 +14,7 @@ t[i]=new Teacher();
 }
 System.out.println("...............................");
 System.out.println("...............................");
-System.out.println("THE DETAILS ARE...:");
+System.out.println("THE DETAILS ARE................");
 System.out.println("...............................");
 for(int i=0;i<n;i++)
 {

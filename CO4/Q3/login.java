@@ -19,7 +19,7 @@ public class login{
                   if(n<6 || n2<6){
                      throw new ArithmeticException("\nCHECK USERNAME OR PASSWORD!\n");
                   }else{
-                      System.out.println("\nLOGIN SUCCESSFUL!!\n");   
+                      System.out.println("\nLOGIN SUCCESSFUL!!!!!\n");   
                   }
                   
              }   

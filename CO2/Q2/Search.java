@@ -13,7 +13,7 @@ for(i=0;i<n;i++)
 {
 a[i]=sc.nextInt();
 }
-System.out.println("enter the element to be searched");
+System.out.println("Enter the element to be searched");
 search=sc.nextInt();
 for(i=0;i<n;i++)
 {
