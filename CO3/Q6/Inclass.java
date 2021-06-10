@@ -27,7 +27,7 @@ obj.input();
 obj.area();
 obj.perimeter();break;
 case 3:
-System.out.println("INVALID");
+System.out.println("INVALID INFORMATION");
 break;
  }
      

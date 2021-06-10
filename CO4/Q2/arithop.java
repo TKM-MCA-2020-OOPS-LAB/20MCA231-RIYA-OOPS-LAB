@@ -27,7 +27,7 @@ public class arithop implements calculation {
 		float r,z,sub;
 		System.out.println("first number:");
 		r=obj1.nextInt();
-		System.out.println("second number:");
+		System.out.println("second  number:");
 		z=obj1.nextInt();
 		sub=r*z;
 		System.out.println("Result:"+sub+"\n");

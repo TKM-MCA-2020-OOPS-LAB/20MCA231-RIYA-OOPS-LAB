@@ -35,7 +35,7 @@ String address;
 Employee()
 {
 Scanner sc=new Scanner(System.in);
-System.out.println("enter employee id:");
+System.out.println("enter employee   id:");
 empid= sc.nextInt();
 Scanner sc1=new Scanner(System.in);
 System.out.println("enter employee  name:");

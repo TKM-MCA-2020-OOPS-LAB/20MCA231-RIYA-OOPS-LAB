@@ -34,7 +34,7 @@ class lict extends book
     Scanner tr = new Scanner(System.in);
     public  void get()
     {
-    System.out.println("enter the details of lictrature books");
+    System.out.println("enter the details   of lictrature books");
     System.out.println("enter the type");
     type = tr.next();
     System.out.println("enter the discription");

@@ -31,8 +31,8 @@ int mark;
 Student()
 {
 Scanner sc=new Scanner(System.in);
-System.out.println("enter your name:");
-name= sc.nextLine();
+System.out.println("enter your  name:");
+name= sc.nextLine(); 
 Scanner sc1=new Scanner(System.in);
 System.out.println("enter age:");
 age= sc1.nextInt();

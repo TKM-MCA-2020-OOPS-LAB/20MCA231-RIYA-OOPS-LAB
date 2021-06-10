@@ -31,7 +31,7 @@ public class Test1{
 	    	    break;
 	    case 5: break;
 	      default:
-	      System.out.println("invalid");
+	      System.out.println("Invalid");
 	      break; 
 		
 		}

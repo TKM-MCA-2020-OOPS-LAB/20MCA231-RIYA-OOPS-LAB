@@ -30,7 +30,7 @@ public class Test {
 	    	    break;
 	    case 5: break;
 	      default:
-	      System.out.println("invalid choice");
+	      System.out.println("invalid  choice");
 	      break; 
 		
 		}

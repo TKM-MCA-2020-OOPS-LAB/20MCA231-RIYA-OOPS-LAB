@@ -8,7 +8,7 @@ public class Symmetric{
 		int i, j, flag = 1;
 
 		
-		System.out.println("The matrix formed is:");
+		System.out.println("The matrix formed is   :");
 		for (i = 0; i < row; i++) {
 			
 			for (j = 0; j < col; j++) {

@@ -20,6 +20,6 @@ public class ComplexNumber{
 	ComplexNumber c1 = new ComplexNumber(5.5, 4);
 	ComplexNumber c2 = new ComplexNumber(1.2, 3.5);
         ComplexNumber temp = sum(c1, c2);
-        System.out.printf("Sum is: "+ temp.real+" + "+ temp.img +"i");
+        System.out.printf("Sum is : "+ temp.real+" + "+ temp.img +"i");
     }
 }

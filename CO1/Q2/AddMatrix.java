@@ -16,7 +16,7 @@
 
             p = s.nextInt();
 
-            System.out.print("Enter number of columns in first matrix:");
+            System.out.print("Enter number of columns in first matrix :");
 
             q = s.nextInt();
 

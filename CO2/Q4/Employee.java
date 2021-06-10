@@ -28,7 +28,7 @@ public class Employee{
 	{
 		int n;
 		Scanner sc3=new Scanner(System.in);
-		System.out.println("Enter the no of employees: ");
+		System.out.println("Enter the nUMBER of employees: ");
 		n=sc3.nextInt();
 		Employee e[]=new Employee[n];
 		

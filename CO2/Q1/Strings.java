@@ -31,7 +31,7 @@ public class Strings
             }
         }
         
-        //Displaying the strings after sorting them based on alphabetical order
+        
         System.out.print("Strings in Sorted Order:");
         for (int i = 0; i <= count - 1; i++) 
         {

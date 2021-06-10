@@ -10,7 +10,7 @@ String manufacturer;
 void processorinfo(float a,String processorname) {
 nocores=a;
 manufacturer=processorname;
-System.out.println("\nInformation of Processor");
+System.out.println("\nInformation   of Processor");
 System.out.println("No. of cores:"+nocores+"\nManufacturer:" +manufacturer);
 }
 }

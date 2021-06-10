@@ -45,7 +45,7 @@ class second extends first implements calculate
 	}
 	public void display()
 	{
-		System.out.println("Order No.112\n");
+		System.out.println("Order    No.112\n");
 		System.out.println("Date: "+df.format(d));
 		System.out.println("\nProduct Id\t\tName\t\t\tQuantity\t\t\tunit price\t\t\tTotal");
 		System.out.println("____________________________________________");

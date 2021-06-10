@@ -9,7 +9,7 @@ public class Strmanip{
 		String str1,str2;
 		System.out.println("Enter string1 : ");
 		str1=sc.nextLine();
-		System.out.println("Enter string2 : ");
+		System.out.println("Enter  string2 : ");
 		str2=sc.nextLine();
 		System.out.println("Character at position 2 of string1 :"+str1.charAt(2));
 		System.out.println("Concating string1 and string2 : "+str1.concat(str2));

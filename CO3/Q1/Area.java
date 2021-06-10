@@ -26,7 +26,7 @@ public class Area
 public static void main(String[] arg) {
 	Area ob= new Area();
 	Scanner sc= new Scanner(System.in);
-	System.out.println("Enter sides of shapes:");
+	System.out.println("Enter sides of   shapes:");
 	float a=sc.nextInt();
 	float b=sc.nextInt();
 	double c=sc.nextInt();

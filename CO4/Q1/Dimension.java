@@ -30,7 +30,7 @@ public class Dimension implements calculation {
 	}
 	public void circle() {
 		float r;
-		System.out.println("Enter the Radius of the Circle:");
+		System.out.println("Enter   the Radius of the Circle:");
 		r=obj1.nextInt();
 		
 		area=3.14*r*r;
