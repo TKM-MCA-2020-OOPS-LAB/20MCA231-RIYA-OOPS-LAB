@@ -6,10 +6,14 @@ interface calculation{
 	public void circle();
 	public void square();
 }
+
 public class Dimension implements calculation {
+public void main(String args[])
+{
 	double area;
 	Scanner obj1=new Scanner(System.in);
-	public void rectangle() {
+	public void rectangle() 
+	{
 		int l,b;
 		System.out.println("Enter the length of the rectangle:");
 		l=obj1.nextInt();
@@ -45,4 +49,10 @@ public class Dimension implements calculation {
 		System.out.println("Area:"+area+"\n");
 	}
 
+}
+interface calculation{
+	public void rectangle();
+	public void triangle();
+	public void circle();
+	public void square();
 }

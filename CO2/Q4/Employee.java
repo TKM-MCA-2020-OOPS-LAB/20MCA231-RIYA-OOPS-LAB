@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+import java.io.*;
+import java.lang.*;
 public class Employee{
 	int eNo;
 	String eName;
