@@ -22,11 +22,11 @@ System.out.println(" \n Array list after sorting");
 for(String str : obj)
 System.out.println(str);
 System.out.println("\n Object at index 2:"+obj.get(2));
-System.out.println("\n six is in the arraylist:"+obj.contains("six"));
+System.out.println("\n Six is in the arraylist:"+obj.contains("six"));
 System.out.println("\n Two is in the arraylist:"+obj.contains("one"));
-System.out.println("\n size of the arraylist :"+obj.size());
+System.out.println("\n Size of the arraylist :"+obj.size());
 obj.clear();
-System.out.println("\n arraylist after clear method:"+obj);
+System.out.println("\n Arraylist after clear method:"+obj);
 }
 }
 
